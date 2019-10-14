@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="hello" language="en" table="x_fix7_hello">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>hello</label>
+            <language>en</language>
+            <name>x_fix7_hello</name>
+            <plural>hellos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-14 16:51:38</sys_created_on>
+            <sys_id>f4c3987453200010cf70ddeeff7b1230</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>hello</sys_name>
+            <sys_package display_value="fix7" source="x_fix7">e163dc3453200010cf70ddeeff7b1223</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="fix7">e163dc3453200010cf70ddeeff7b1223</sys_scope>
+            <sys_update_name>sys_documentation_x_fix7_hello__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-14 16:51:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
